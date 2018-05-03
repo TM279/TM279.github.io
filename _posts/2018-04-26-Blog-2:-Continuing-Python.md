@@ -1,5 +1,5 @@
 ---
-title: Blog 2: Continuing Python
+title: Blog 3: Continuing Python
 layout: post
 author: thomas.mansell
 permalink: /blog-2:-continuing-python/
@@ -9,10 +9,10 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Blog 2: Continuing Python
+    <td>Blog 3: Continuing Python
 </td>
     <td>Date</td>
-    <td>26/4/18</td>
+    <td>3/5/18</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Exercise 5 on Codecademy</td>
+    <td>Exercise 2 on Codecademy</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To get the badge for finishing the first 14 tasks</td>
+    <td>To complete the exercise.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -42,19 +42,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I found the tasks a lot easier when I read the examples. I also read the instructions of what to do. I also did a few questions in the second exercise so I could be more prepared for harder code.</td>
+    <td>When  I first got the thing wrong I read the hints to gather as much information as I could to finish the code. When I read over the instructions more than once I then understood what I had to do for each exercise.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I need to read back my work because if I make a small mistake it will ruin my streak and I will have to then look back over all my code and see what was wrong. I will also need to read the hints at the bottom of the screen instead of wasting time trying to figure it out the hard way.</td>
+    <td>I need to read back my work because if I make a small mistake it will ruin my streak and I will have to then look back over all my code and see what was wrong. I will also need to read the instructions a few more times so I know that I fully understand the exercise.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next time I will read the hints and read back my work so I can get through more exercises and not waste time.</td>
+    <td>Next time I will spend time reading back my work and read the instructions more so I don't waste time.</td>
   </tr>
 </table>
 
