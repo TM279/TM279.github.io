@@ -1,0 +1,61 @@
+---
+title: Blog 3: Continuing Python
+layout: post
+author: thomas.mansell
+permalink: /blog-2:-continuing-python/
+source-id: 18Qq220untqtL2hO0CcOQ4ATmNqxhKmTOiRaYG5mpM3g
+published: true
+---
+<table>
+  <tr>
+    <td>Title</td>
+    <td>Blog 3: Continuing Python
+</td>
+    <td>Date</td>
+    <td>3/5/18</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>Starting point:</td>
+    <td>Exercise 2 on Codecademy</td>
+  </tr>
+  <tr>
+    <td>Target for this lesson?</td>
+    <td>To complete the exercise.</td>
+  </tr>
+  <tr>
+    <td>Did I reach my target? 
+(add details to "Lesson Review")</td>
+    <td>Yes I completed the exercise.</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>Lesson Review</td>
+  </tr>
+  <tr>
+    <td>How did I learn? What strategies were effective? </td>
+  </tr>
+  <tr>
+    <td>When  I first got the thing wrong I read the hints to gather as much information as I could to finish the code. When I read over the instructions more than once I then understood what I had to do for each exercise.</td>
+  </tr>
+  <tr>
+    <td>What limited my learning? Which habits do I need to work on? </td>
+  </tr>
+  <tr>
+    <td>I need to read back my work because if I make a small mistake it will ruin my streak and I will have to then look back over all my code and see what was wrong. I will also need to read the instructions a few more times so I know that I fully understand the exercise.</td>
+  </tr>
+  <tr>
+    <td>What will I change for next time? How will I improve my learning?</td>
+  </tr>
+  <tr>
+    <td>Next time I will spend time reading back my work and read the instructions more so I don't waste time.</td>
+  </tr>
+</table>
+
+
